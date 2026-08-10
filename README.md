@@ -2,7 +2,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-JCER-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JCER)
 ![Focus](https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-2ea44f)
-![Ranking](https://img.shields.io/badge/TryHackMe-Top%207%25%20Global-blueviolet?logo=tryhackme&logoColor=white)
+![Ranking](https://img.shields.io/badge/TryHackMe-Top%205%25%20Global-blueviolet?logo=tryhackme&logoColor=white)
 
 Hands-on lab notes and write-ups documenting my progression through TryHackMe as I transition from physical security into cybersecurity, with a focus on blue team and SOC work. Each write-up is organized by module and room, and lists the concepts covered alongside the exact commands I ran.
 
